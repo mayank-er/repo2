@@ -1,0 +1,335 @@
+#navbarNavDropdown{
+  position: fixed;
+    width: 100%;
+    margin-bottom: 0;
+    background-color: #fff;
+   
+left:0;
+    z-index: 2001;
+    height:200;
+    line-height: 2;
+}
+  #carousel{
+    width: 100%;
+}
+.carousel-content {
+    position: absolute;
+    top: 8%;
+    bottom: 50%;
+    left: 5%;
+    z-index: 20;
+    color: white;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+    font-size: 3.0rem;
+    font-family: 'fordngbs-antenna-light',arial,helvetica,sans-serif;
+  }
+
+  .text{
+    position: absolute;
+    top: 40%;
+    bottom: 50%;
+    left: 5%;
+    z-index: 20;
+    color:#FDFEFE;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+    font-size: 1.2rem;
+    font-family: 'fordngbs-antenna-light',arial,helvetica,sans-serif;   
+    cursor: pointer;
+   
+
+  }
+  .icond{
+    position: absolute;
+    top: 40%;
+    bottom: 50%;
+    left: 15.2%;
+    z-index: 20;
+    color:#FDFEFE;
+    cursor: pointer;
+    font-size: 1.2rem;
+  }
+  .navbar .navbar-nav .nav-item .nav-link{
+      
+      color: #0C7BB6;
+     
+
+  }
+  .navbar-nav{
+    position: static;
+    top: 70;
+    left: 100;
+  }
+  
+  .section2{
+    padding: 3%;
+    padding-left: 10%;
+    padding-top:1%;
+    padding-bottom: 1%;
+    text-align: center;
+    position: static;
+    color:#616161;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+    font-size: 3.0rem;
+    font-family: 'fordngbs-antenna-light',arial,helvetica,sans-serif;
+  }
+    .section3{
+      padding: 3%;
+      padding-left: 10%;
+      padding-top:0.02%;
+      text-align: center;
+      position: static;
+      color:#616161;
+      text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+      font-size: 2.0rem;
+      font-family: 'fordngbs-antenna-light',arial,helvetica,sans-serif;
+    }
+    .section3 .btn{
+     
+      box-sizing: border-box;
+      width:25%;
+      line-height: 3;
+
+    }
+    .icon{
+      position: absolute;
+      top: 30px;
+      left: 700px;
+    color: #0C7BB6;
+    cursor: pointer;
+    font-size: 1.2rem;
+    }
+    .text1{
+      position: absolute;
+      top: 30px;
+      left: 730px;
+      font-size: 1.2rem;
+    color: #0C7BB6;
+    cursor: pointer;
+    
+    }
+    .icon2{
+      position: absolute;
+      font-size: 1.2rem;
+      top: 30px;
+      left: 900px;
+    color: #0C7BB6;
+    cursor: pointer;
+    }
+    .text2{
+      position: absolute;
+      font-size: 1.2rem;
+      top: 30px;
+      left: 930px;
+    color: #0C7BB6;
+    cursor: pointer;
+      
+
+    }
+    .icon3{
+      position: absolute;
+      top: 30px;
+      font-size: 1.2rem;
+      left: 1020px;
+    color: #0C7BB6;
+    cursor: pointer;
+    }
+    .icon4{
+      position: absolute;
+      font-size: 1.2rem;
+      top: 30px;
+      left: 1100px;
+    color: #0C7BB6;
+    cursor: pointer;
+    }
+    .text3{
+      position: absolute;
+      font-size: 1.2rem;
+      top: 30px;
+      left: 1130px;
+    color: #0C7BB6;
+    cursor: pointer;
+    }
+    .image{
+      position: absolute;
+      top:1000px;
+      
+    }
+    .content{
+      position: absolute;
+      top:1400px;
+      left: 500px;
+      text-align: center;;
+      font-family: 'fordngbs-antenna-light',arial,helvetica,sans-serif;
+    word-break: normal;
+      font-size: 3.0rem;
+    }
+    .content2{
+      position: absolute;
+      top:1500px;
+      left: 300px;
+      right: 200px;
+      text-align: center;
+      font-family: 'fordngbs-antenna-light',arial,helvetica,sans-serif;
+    word-break: normal;
+      font-size: 1.2rem;
+    }
+    .image2{
+      position: absolute;
+      top:1600px;
+      left: 300px;
+      
+    }
+    .span{
+      position: absolute;
+      top:1732px;
+      left:620px;
+      cursor: pointer;
+    color: white;
+    font-size: 6rem;
+    }
+    .image3{
+      position: absolute;
+      top:2150px;
+      left: 0px;
+    }
+    .text4{
+      position: absolute;
+      top:50px;
+      text-align: center;
+      left: 350px;
+      color: white;
+      font-size: 3.0rem;
+      font-family: 'fordngbs-antenna-light',arial,helvetica,sans-serif;
+      -webkit-font-smoothing: antialiased;
+      -webkit-tap-highlight-color: rgba(0,0,0,0);
+      cursor: pointer;
+      
+    }
+    .text5{
+      position: absolute;
+      top:150px;
+      text-align: center;
+      left: 520px;
+      color: white;
+      font-size: 1.2rem;
+      font-family: 'fordngbs-antenna-light',arial,helvetica,sans-serif;
+      
+      cursor: pointer;
+      text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+    }
+    .text6{
+      position: absolute;
+      top:450px;
+      text-align: center;
+      left: 520px;
+      color: white;
+      font-size: 2.5rem;
+      font-family: 'fordngbs-antenna-light',arial,helvetica,sans-serif;
+      font-weight: 500;
+    line-height: 1.1;
+      
+      cursor: pointer;
+      text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+    }
+    .button1 .btn{
+      position: absolute;
+      top:520px;
+      text-align: center;
+      left: 520px;
+      
+      width:19%;
+      line-height: 3;
+      background-color: #0276b3;
+    
+      
+      cursor: pointer;
+    }
+  .section4{
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 1.6rem;
+    color: #333;
+    -webkit-font-smoothing: antialiased;  
+}
+.footer{
+  background-color: #242424;
+  color:#D9D9D9;
+ padding-top: 2%;
+ position: absolute;
+ top:900px;
+ width:100%;
+ 
+ padding-right: 8%;
+  
+}
+a{
+color: #686868;
+
+
+}
+/* .image5{
+  width: 256px;
+  height: 227.55px;
+  position: absolute;
+  right: 290px;
+  top:763.6px;
+
+} */
+.icon5{
+  color:#FDFEFE;
+  font-size: 1.6rem;
+  left: 50px;
+
+}
+.search input[type=text]{
+  position: absolute;
+  left: 70px;
+  bottom:20px;
+  
+  font-size: 2rem;
+  font-family: 'fordngbs-antenna-light',arial,helvetica,sans-serif;
+  cursor: text;
+background-color:#343A40;
+border:none;
+
+}
+#navfooter{
+  position: absolute;
+  height: 100px;
+  width: 100%;
+  color: #333;
+  
+
+}
+.text7{
+  position: absolute;
+  left: 900px;
+  bottom:40px;
+  
+  font-size: 1.2rem;
+  font-family: 'fordngbs-antenna-light',arial,helvetica,sans-serif;
+  cursor: text;
+  color: white;
+
+}
+.text8{
+  position: absolute;
+  left: 1000px;
+  bottom:40px;
+  
+  font-size: 1.2rem;
+  font-family: 'fordngbs-antenna-light',arial,helvetica,sans-serif;
+  cursor: text;
+  color: #A7A7A7;
+
+  
+}
+.footer{
+  position: absolute;
+  top: 863.5px;
+  
+}
